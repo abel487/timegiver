@@ -1,1 +1,1 @@
-# timegiver
+Print(timegiver)
